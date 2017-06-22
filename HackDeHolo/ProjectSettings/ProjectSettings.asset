@@ -513,7 +513,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
-  metroCertificateNotAfter: 8012604fd409d401
+  metroCertificateNotAfter: 80d592dadf09d401
   metroApplicationDescription: HackDeHolo
   wsaImages: {}
   metroTileShortName: 
